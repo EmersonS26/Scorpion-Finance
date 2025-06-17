@@ -1,11 +1,11 @@
 # 🦂 Scorpion Finance - DIO PROJECT
 
-![Scorpion Finance Banner](https://img.shields.io/badge/Excel-VBA%20%7C%20UX%20Design-orange?style=flat&logo=microsoft-excel)  
+![Scorpion Finance Banner](https://img.shields.io/badge/Excel%20%7C%20UX%20Design-orange?style=flat&logo=microsoft-excel)  
 > Ferramenta desenvolvida em Excel para facilitar o processo de organização e preparação de dados para a **declaração do Imposto de Renda**.
 
 ## 📌 Sobre o Projeto
 
-O **Scorpion Finance - Projeto DIO** é uma planilha interativa e automatizada criada no Excel com o objetivo de reunir **informações essenciais para a declaração do Imposto de Renda** de forma prática, validada e visualmente amigável.
+O **Scorpion Finance** é uma planilha interativa e automatizada criada no Excel com o objetivo de reunir **informações essenciais para a declaração do Imposto de Renda** de forma prática, validada e visualmente amigável.
 
 Este projeto foi criado com foco em pessoas que desejam **ter controle financeiro, centralizar documentos e simplificar o envio das informações fiscais**.
 
@@ -32,25 +32,26 @@ Este projeto foi criado com foco em pessoas que desejam **ter controle financeir
 ## 🖼️ Exemplos de Telas
 
 ### 1. Dados do Titular  
-![Tela Titular](assets/Titular.png)
+![banner](Titular.png)
 
 ### 2. Informes Bancários  
-![Tela Informes](assets/tela_informes.png)
+![banner](Informes.png)
 
 ### 3. Entradas Financeiras (Notas)  
-![Tela Notas](assets/tela_notas.png)
+![banner](Notas.png)
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Microsoft Excel** (com VBA em algumas versões)
+- **Microsoft Excel**
 - **Validações de dados**
-- **Formatação condicional**
+- **Design de Formatações simples**
 - **Links e navegação interna por botões**
-- Design e UX voltado para usabilidade
+- **Design e UX voltado para usabilidade**
+- **Microsoft Copilot e GPT-4**
 
 ---
-
-## 📁 Estrutura da Planilha
+## 📁 Desenvolvido como parte do **Dio Project 💰**
+---
 
