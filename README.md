@@ -49,7 +49,7 @@ Este projeto foi criado com foco em pessoas que desejam **ter controle financeir
 - **Design de Formatações simples**
 - **Links e navegação interna por botões**
 - **Design e UX voltado para usabilidade**
-- **Microsoft Copilot e GPT-4**
+
 
 ---
 ## 📁 Desenvolvido como parte do **Dio Project 💰**
